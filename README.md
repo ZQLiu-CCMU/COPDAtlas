@@ -1,2 +1,2 @@
-# COPDAtlas-lab
+# COPDAtlas
 Scripts for reproducing major figures of COPD Atlas project.
